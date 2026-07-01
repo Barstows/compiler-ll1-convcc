@@ -120,10 +120,5 @@ Em caso de erro, produz uma mensagem indicando:
 - Linha e coluna do erro
 - Descrição do problema
 
-## Desenvolvimento
-
-### Integrantes do Grupo
-- [Nome dos integrantes]
-
 ### Licença
-Este projeto é acadêmico e segue as normas de integridade acadêmica da UFRGS.
+Este projeto é acadêmico e segue as normas de integridade acadêmica da UFSC.
